@@ -1,8 +1,20 @@
 from flask import Flask, render_template, request, jsonify
+from flask_cors import CORS  # Import CORS
 import pandas as pd
 from difflib import get_close_matches
 
 app = Flask(__name__)
+# Enable CORS for all routes
+CORS(app, resources={
+    r"/api/*": {
+        "origins": [
+            "https://rit-transport-ig6t.vercel.app",
+            "http://localhost:3000"  # For local development
+        ],
+        "methods": ["GET", "POST", "OPTIONS"],
+        "allow_headers": ["Content-Type"]
+    }
+})
 
 class RITBusChatbot:
     def __init__(self, csv_file):
@@ -103,8 +115,16 @@ chatbot = RITBusChatbot("rit_bus_routes.csv")
 def home():
     return render_template('index.html')
 
-@app.route('/api/chat', methods=['POST'])
+@app.route('/api/chat', methods=['POST', 'OPTIONS'])
 def chat():
+    if request.method == 'OPTIONS':
+        # Handle preflight request
+        response = jsonify({'status': 'success'})
+        response.headers.add('Access-Control-Allow-Origin', 'https://rit-transport-ig6t.vercel.app')
+        response.headers.add('Access-Control-Allow-Headers', 'Content-Type')
+        response.headers.add('Access-Control-Allow-Methods', 'POST')
+        return response
+    
     data = request.get_json()
     query = data['query']
     response = chatbot.respond_to_query(query)
