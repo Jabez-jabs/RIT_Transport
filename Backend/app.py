@@ -8,7 +8,7 @@ app = Flask(__name__)
 CORS(app, resources={
     r"/api/*": {
         "origins": [
-            "https://rit-transport-ig6t.vercel.app",
+            "https://rit-transport.vercel.app",
             "http://localhost:3000"  # For local development
         ],
         "methods": ["GET", "POST", "OPTIONS"],
@@ -120,7 +120,7 @@ def chat():
     if request.method == 'OPTIONS':
         # Handle preflight request
         response = jsonify({'status': 'success'})
-        response.headers.add('Access-Control-Allow-Origin', 'https://rit-transport-ig6t.vercel.app')
+        response.headers.add('Access-Control-Allow-Origin', 'https://rit-transport.vercel.app')
         response.headers.add('Access-Control-Allow-Headers', 'Content-Type')
         response.headers.add('Access-Control-Allow-Methods', 'POST')
         return response
