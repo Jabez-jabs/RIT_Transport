@@ -1,21 +1,31 @@
 Route Number,Route Name,Boarding Points,Starting Time
 R-1,ENNORE,"Lift Gate, Wimco Market, Ajax, Periyar Nagar, Thiruvortiyur Market, Theradi, Ellaimman Koil, Raja Kadai, Toll Gate, Kasimedu, Kalmandapam, Royapuram Bridge, Beach Station, Parry's, Central, Egmore, Dasprakash, Eaga Theatre, Amjikarai Market, RIT Campus",5:50 AM
+R-1A,Tondiarpet,"New Vannarpettai, Apollo, Tondiarpet, Maharani, Mint, New Bus Stand Mint,Thirupalli street, Amjikkarai, Sky walk, Arumbakkam, Koyambedu Metro, Vengaya mandi, Ration shop(Nerkundram), Maduravoyal, Maduravoyal Erikarai, Vanagaram, RIT Campus", 6:17 AM
 R-2,Triplicane,"Chintadripet (Post Office), D1 Police Station, Triplicane -High Way, Ice House Police Station, Meersahibpet-Market, Royapettah New College, Sterling Road (Bharath Petrol Bunk), Choolaimedu Subway, Choolaimedu bus stop, Anna Arch, Arumbakkam Panchaliamman Koil, NSK, Maduravoyal- Murugan Store, RIT Campus",6:20 AM
 R-3,CHOOLAI,"Pulianthope, Choolai Post Office, Purasaivakkam Doveton, Kellys Signal, Water tank road signal, Kilpauk Garden, Chinthamani, Anna Nagar Roundtana, Thirumangalam Blue star, VR Mall, Maduravoyal Ration Shop, RIT Campus",6:20 AM
+R-3A,Collector Nagar,"Collector Nagar, Golden flat, MogappairWest Depot, Nolambur, MGR University, RIT Campus", 6:50 AM
+R-3B,Water Tank,"Gangaiamman Koil, Madina Masjid, New Avadi Road, Chintamani, Nalli Store, Anna Nagar Metro, Thirumangalam Metro, Nerkundram, Maduravoyal Ration Shop, Maduravoyal Erikarai, RIT Campus",6:40 AM
 R-4,East Mogapair,"JJ Nagar Police Station, HDFC Bank, IOB Bank, 7 H Bus Depot, Amutha School, D.R.Super Market, Nolambur, Meadows Apartment, MGR University, RIT Campus",6:30 AM
 R-5,CIT Nagar,"CIT Nagar, Aranganathan Subway, Srinivasa Theatre, Metupalayam, Sangamam Hotel, Aryagowda Road, Vivek, Usman Road, Loyalo College, MMDA Water Tank, MMDA Bus Stand, RIT Campus",6:10 AM
+R-5A,Loyola College,"Loyola College, Choolaimedu, Metha Nagar, NSK Nagar, Arumbakkam(SBI Bank), MMDA Cholan Street, MMDA Vallavan Hotel, CMBT(Koyambedu), Rohini Theatre, Nerkundram Vengaya mandi, Maduravoyal Erikarai, RIT Campus",6:40 AM
 R-6,CHINMAYA NAGAR,"Chinmaiya Nagar, Sai Nagar, Natesan Nagar, Elango Nagar, Virugampakkam, KK Nagar, KK Nagar ESI, Ashok Pillar, Kasi Theatre, Ekkatuthangal, Olympia, Porur Saravana Store, RIT Campus",6:10 AM
 R-7,SANTHOME,"Mandaveli Bus Depot, Pattinapakkam, Kutchery Road, Luz Corner, P.S.Sivasamy Road, SIET College, Nanthanam Signal, Saidapet Vetrinary Hospital, Saidapet Bus Stop, Guindy, Butt Road, Chennai Trade Centre, Porur, Ayyapanthangal, RIT Campus",6:10 AM
 R-8,KOVILAMBAKKAM,"Kovilampakkam, Keelkattalai Bus Stop, Madipakkam UTI Bank, Madipakkam Koot Road Bus stop, Ranga Theatre, Nanganallur Chidambaram Stores, Nanganallur Saravana Hotel, Vanuvampet Church, Surendhar Nagar Bus Stop, Jayalakshmi Theatre, Thillai Ganga Nagar Sub Way, Aazar Khana Bus Stop, Butt Road, Ramavaram, College Campus",6:10 AM
 R-9,MKB Nagar,"Vyasarpadi, MKB Nagar, E.B. Stop, Kannadhasan Nagar, M.R.Nagar, Lakshmi Amman Nagar, P.B.Road, Perumbur Market, Agaram, Peravalur Road, RIT Campus",6:00 AM
+R-9A,Perambur,"BB Road, Perambur Bus stop, Perambur Railway station, Gandhi salai, Venus mall, Retteri, Senthil Nagar, RIT Campus", 6:30 AM
 R-10,Thachoor,"Thachoor, Panjetty, Janappanchatram Bypass, Karanodai Bypass, Vijaya Nallur, Toll Gate, Padianallur, Red Hills (GRT), Red Hills Market, Kavangarai, Puzhal Jail, Puzhal Camp, Velammal College, RIT Campus",5:50 AM
 R-11,Chengalpattu,"Srinivasapuram, Guduvanchery, E.B, Urapakkam, Vandalur, Perungalathur, Irrummpuliyur, Sanitoriyum MEPZ, T.B.Hospital, Nagalkani, RIT Campus",6:00 AM
+R-11A,Guduvanchery,"Guduvanchery, Urapakkam, Vandalur, Perungalathur, Vandalur Bridge, Mannivakkam, RIT Campus", 6:30 AM
 R-12,Manali,"Manali Market, MMDA 3rd Main Road, MMDA 1st Main Road, Madavaram Milk Colony, Arul Nagar, Thapalpetti, Moolakadai, Donbosco, Thiruvika Nagar, Kolathur Welding shop, Kolathur Mugambigai Theatre, RIT Campus",6:05 AM
 R-13,Vyasarpadi,"Ganeshapuram, G3 Police Station, Pattalam, Otteri, Podi Kadai, T.B.Hospital, Ayanawaram Signal, Sayyani, Ayanawaram Noor Hotel, Joint Office, Ayanawaram Railway Quarters, ICF, Villivakkam, Nadhamuni, Vanagaram, Velappanchavadi, RIT Campus",6:10 AM
+R-13A,ICF,"ICF Signal, Villivakkam Bus Stand, Korattur Signal, Nolambur Signal, Vanagaram, Velappanchavadi, Poonamalle Bypass, RIT Campus",6:45 AM
 R-14,Thiruvallur,"Sevapetai, Kakkalur, Poonga Nagar, GRT, Manavalanagar Signal, Manavalanagar Railway Station, Putlur, Aranvoyal, Puthuchatram (India Japan Company), RIT Campus",6:25 AM
 R-15,Kanchipuram,"Ayyangarkulam, Housing Board, Collector Office, Keerai Mandapam, Rangasamy Kulam, Kanchipuram Bus Stand, Sriperumbudur High School, Sriperumbudur Bus stand, Sriperumbudur - Theradi, Irungattukottai bus stand, College Campus",6:00 AM
+R-15A,Orikkai,"Orikkai, JJ Nagar, Keerai Mandapam, Tollgate, Pachaiyappa's College, Ayyampettai, Rajampettai, Walajabad, Panrutti, Oragadam, Arun Excello, Sriperumbudur High School, Sriperumbudur Tollgate, Irungattukottai Bus stand, RIT Campus", 6:15 AM
 R-16,Neelangkarai,"Prathana Theatre, Vetuvankeni",6:10 AM
+R-16A,"Guindy","Butt Road, Nandambakkam, Ramapuram Signal, DLF, Mugalivakkam, Saravana Stores,Poonamalle Depot, RIT Campus",6:45 AM
 R-17,Valluvar Kottam,"Valluvar Kottam, Liberty, Kodambakkam, Virugambakkam, Alwar Thirunagar, RIT Campus",6:15 AM
+R-17A,Valasaravakkam,"Valasaravakkam Shivan Koil, Valasaravakkam, Saravana Bhavan Hotel, Lakshmi Nagar, Porur Bridge, Iyyapanthangal, Kattupakkam, Kumanchavadi, RIT Campus",6:45 AM
 R-18,Pallikarnai,"Pallikarnai, Kaiveli, Medavakam, Camp Road, Tambaram, Mudichur,RIT Campus",6:00 AM
 R-18A,Sembakam,"Kamarajapuram, Rajakilpakkam Signal, Camp Road, Tambaram Sanatorium, Chrompet, Thiruneermalai, RIT Campus",6:25 AM
 R-19,Poombukar,"Poombukar, Ganga Cinema, Donbosco, Korattur Bus Stop, Padi Britania, TVS Show Room, Ambattur",6:10 AM
@@ -24,3 +34,16 @@ R-21,Ayappakam,"Ayapakkam Parking, Ayappakam SBI ATM, Ayappakam Petrol Bunk, ICF
 R-22, Thiruthani,"Thiruthani Bypass, Thiruvallur Bypass x Road, Nagalamman Nagar, Swalpettaih,Government Hospital, Old Bus Stand, Railway Station, New Bus Stand, SR Gate, Navy Gate, Venkatesapuram, Marimangalam, Narasimapuram, Perambakkam, Koovam Bus Stop, Valarpuram, RIT Campus",5:55 AM
 R-23,K4 Police Station,"Nathamuni Theatre, K4 Police Station, Labour Officers Quarters, Vijaya Maruthi, Udayam Colony, Kambar Colony, Anna Nagar West Depot, Thirumangalam Bridge, Thirumangalam Waves, RIT Campus",7:40 AM
 R-24,Arcot,"Arcot Bus stand, Muthukadai, VC Motor, Walajapettai, Arignar Anna Gov College, Walajapettai Tollgate, Kaveripakkam, Perumpullipakam,Vinayagapuram(KPM), Vadamangalam",5:25 AM
+R-25,Kallikuppam,"Kallikuppam, Stedford Hospital, Saraswathy Nagar Indian oil Petrol bunk, Maningandapuram, Thirumullaivoyal Junction, Vaishnavi Nagar, Murugappa Polytechnic, RIT Campus",6:45 AM
+R-25A,Pudur,"Pudur, Oragadam HP Pump, PTR Mahal, Ponnu Supermarket, Govardhanagiri, RIT Campus",6:45 AM
+R-26,Andarkuppam,"Andarkuppam, Kundrathur, Kundrathur Thandalam, Kovur, Gerugambakkam, Bai Kadai, Mathanandapuram Nagar, Porur, RIT Campus", 6:35 AM
+R-27,Avadi,"Ajeya Stadium, HVF, CRP, Mitnamalli, Muthapudupet, Sasthri Nagar, Avadi Checkpost, Rama Rathna Theatre, Avadi mankoil, Vasantham Nagar, Kovarthanagiri, Kaduveti, RIT Campus",6:25 AM
+R-27A,Kollumedu,"Kollumedu,Vel Tech College, Kovilpathagai, Ajeya Stadium, CRPF, Mitnamalli, Palavedu Service Road, Nemilicheri Tollgate, Chithukadu Blue, Panimalar Tollgate, Chembarambakkam, RIT Campus",6:30 AM
+R-28,Agaram,"Agaram, Periyar Nagar, Thiruvalluvar Thirumanamandapam, Permal Koil, Kamban Nagar, EB, Shanmugam Mahal, Senthil Nagar, Thathankuppam, Kalyan Jewellers, Collector Nagar, Cheriyan Hospital, Golden Flats, RIT Campus",6:20 AM
+R-29,Velachery,"Vijayanagar Bus stand, Kaiveli, Kamatchi Hospital, Pallavaram Singapore Shopping, Krishna nagar, via Kundrathur(non stop), RIT Campus",6:10 AM
+R-29A,Pammal,"Pammal, Arunmathi theatre, Anagaputhur, Manikandan Nagar, Karima Nagar, Kundrathur(theradi), RIT Campus",6:35 AM
+R-29B,Sivanthangal,"Sivanthangal, Muthukumaran College, Pattu Koot Road, Mangadu, Kankaiyamman Kovil, MGR Nagar, Kumananchavadi, Aravind Hospital, RIT Campus",7:05 AM
+R-39,Uthiramerur,"Uthiramerur, Karuvappampoondi, Manalmedu, Vengacherry, Mangaral, Arpakkam, Kalakattur, Karuvimalai, Orikkai, Military Road, Gandhi Nagar, Keel Gate, Keeramandapam, RIT Campus",5:40 AM
+R-41C,Vellore,"Vellore Rountana, Sathuvachari, Vallar, Pootuthakal, Arcot, Ranipet Bypass, Walaja Toll Booth, Baguwali Koot Road, Sriperumbudur bypass, RIT Campus",5:30 AM
+R-42C,Sholingur,"Sholingur Bus stand, Karumaimman Koil, Salai, Gumpinipettai, Chinnakayanoor Bridge, Perumuchi, Thakkolam Koot Road, Kadamnallur, Thakkolam EB, Thakkolam Malebazar, Thakkolam Keelbazar, Marimangalam, Narasingapuram, Perumbakkam, Koovam, Kondacheri, Moppedu, Vooluthai, Thandalam Koot Road, RIT Campus",5:35 AM
+R-44,Nemili-Panappakam,"Nemili Bus stand, Vetangulam, Reddyvalam, Panappakam, Aayarpadi, Ocheri, Baluchetti, Vellagate(Sakthiganapathy Hotel), Meenachi College(KPM), Rajakulam, Sathankulam, Pillaichatram, Sunguvar Chatram Bust stand, Mambakkam, Sriperumbudur Bust stand, RIT Campus",6:05 AM
